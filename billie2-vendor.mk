@@ -88,6 +88,30 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/billie2/proprietary/product/lib/libdpmfdmgr.so:$(TARGET_COPY_OUT_PRODUCT)/lib/libdpmfdmgr.so \
     vendor/oneplus/billie2/proprietary/product/lib/libdpmframework.so:$(TARGET_COPY_OUT_PRODUCT)/lib/libdpmframework.so \
     vendor/oneplus/billie2/proprietary/product/lib/libdpmtcm.so:$(TARGET_COPY_OUT_PRODUCT)/lib/libdpmtcm.so \
+    vendor/oneplus/billie2/proprietary/product/lib/vendor.display.color@1.0.so:$(TARGET_COPY_OUT_PRODUCT)/lib/vendor.display.color@1.0.so \
+    vendor/oneplus/billie2/proprietary/product/lib/vendor.display.color@1.1.so:$(TARGET_COPY_OUT_PRODUCT)/lib/vendor.display.color@1.1.so \
+    vendor/oneplus/billie2/proprietary/product/lib/vendor.display.color@1.2.so:$(TARGET_COPY_OUT_PRODUCT)/lib/vendor.display.color@1.2.so \
+    vendor/oneplus/billie2/proprietary/product/lib/vendor.display.color@1.3.so:$(TARGET_COPY_OUT_PRODUCT)/lib/vendor.display.color@1.3.so \
+    vendor/oneplus/billie2/proprietary/product/lib/vendor.display.config@1.0.so:$(TARGET_COPY_OUT_PRODUCT)/lib/vendor.display.config@1.0.so \
+    vendor/oneplus/billie2/proprietary/product/lib/vendor.display.config@1.1.so:$(TARGET_COPY_OUT_PRODUCT)/lib/vendor.display.config@1.1.so \
+    vendor/oneplus/billie2/proprietary/product/lib/vendor.display.config@1.10.so:$(TARGET_COPY_OUT_PRODUCT)/lib/vendor.display.config@1.10.so \
+    vendor/oneplus/billie2/proprietary/product/lib/vendor.display.config@1.11.so:$(TARGET_COPY_OUT_PRODUCT)/lib/vendor.display.config@1.11.so \
+    vendor/oneplus/billie2/proprietary/product/lib/vendor.display.config@1.12.so:$(TARGET_COPY_OUT_PRODUCT)/lib/vendor.display.config@1.12.so \
+    vendor/oneplus/billie2/proprietary/product/lib/vendor.display.config@1.13.so:$(TARGET_COPY_OUT_PRODUCT)/lib/vendor.display.config@1.13.so \
+    vendor/oneplus/billie2/proprietary/product/lib/vendor.display.config@1.14.so:$(TARGET_COPY_OUT_PRODUCT)/lib/vendor.display.config@1.14.so \
+    vendor/oneplus/billie2/proprietary/product/lib/vendor.display.config@1.15.so:$(TARGET_COPY_OUT_PRODUCT)/lib/vendor.display.config@1.15.so \
+    vendor/oneplus/billie2/proprietary/product/lib/vendor.display.config@1.16.so:$(TARGET_COPY_OUT_PRODUCT)/lib/vendor.display.config@1.16.so \
+    vendor/oneplus/billie2/proprietary/product/lib/vendor.display.config@1.2.so:$(TARGET_COPY_OUT_PRODUCT)/lib/vendor.display.config@1.2.so \
+    vendor/oneplus/billie2/proprietary/product/lib/vendor.display.config@1.3.so:$(TARGET_COPY_OUT_PRODUCT)/lib/vendor.display.config@1.3.so \
+    vendor/oneplus/billie2/proprietary/product/lib/vendor.display.config@1.4.so:$(TARGET_COPY_OUT_PRODUCT)/lib/vendor.display.config@1.4.so \
+    vendor/oneplus/billie2/proprietary/product/lib/vendor.display.config@1.5.so:$(TARGET_COPY_OUT_PRODUCT)/lib/vendor.display.config@1.5.so \
+    vendor/oneplus/billie2/proprietary/product/lib/vendor.display.config@1.6.so:$(TARGET_COPY_OUT_PRODUCT)/lib/vendor.display.config@1.6.so \
+    vendor/oneplus/billie2/proprietary/product/lib/vendor.display.config@1.7.so:$(TARGET_COPY_OUT_PRODUCT)/lib/vendor.display.config@1.7.so \
+    vendor/oneplus/billie2/proprietary/product/lib/vendor.display.config@1.8.so:$(TARGET_COPY_OUT_PRODUCT)/lib/vendor.display.config@1.8.so \
+    vendor/oneplus/billie2/proprietary/product/lib/vendor.display.config@1.9.so:$(TARGET_COPY_OUT_PRODUCT)/lib/vendor.display.config@1.9.so \
+    vendor/oneplus/billie2/proprietary/product/lib/vendor.display.postproc@1.0.so:$(TARGET_COPY_OUT_PRODUCT)/lib/vendor.display.postproc@1.0.so \
+    vendor/oneplus/billie2/proprietary/product/lib/vendor.qti.hardware.display.composer@2.0.so:$(TARGET_COPY_OUT_PRODUCT)/lib/vendor.qti.hardware.display.composer@2.0.so \
+    vendor/oneplus/billie2/proprietary/product/lib/vendor.qti.hardware.display.composer@2.1.so:$(TARGET_COPY_OUT_PRODUCT)/lib/vendor.qti.hardware.display.composer@2.1.so \
     vendor/oneplus/billie2/proprietary/product/lib/vendor.qti.hardware.perf@2.0.so:$(TARGET_COPY_OUT_PRODUCT)/lib/vendor.qti.hardware.perf@2.0.so \
     vendor/oneplus/billie2/proprietary/product/lib/vendor.qti.hardware.wifidisplaysession@1.0.so:$(TARGET_COPY_OUT_PRODUCT)/lib/vendor.qti.hardware.wifidisplaysession@1.0.so \
     vendor/oneplus/billie2/proprietary/product/lib64/com.qualcomm.qti.ant@1.0.so:$(TARGET_COPY_OUT_PRODUCT)/lib64/com.qualcomm.qti.ant@1.0.so \
@@ -103,6 +127,30 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/billie2/proprietary/product/lib64/libdpmtcm.so:$(TARGET_COPY_OUT_PRODUCT)/lib64/libdpmtcm.so \
     vendor/oneplus/billie2/proprietary/product/lib64/libimscamera_jni.so:$(TARGET_COPY_OUT_PRODUCT)/lib64/libimscamera_jni.so \
     vendor/oneplus/billie2/proprietary/product/lib64/libimsmedia_jni.so:$(TARGET_COPY_OUT_PRODUCT)/lib64/libimsmedia_jni.so \
+    vendor/oneplus/billie2/proprietary/product/lib64/vendor.display.color@1.0.so:$(TARGET_COPY_OUT_PRODUCT)/lib64/vendor.display.color@1.0.so \
+    vendor/oneplus/billie2/proprietary/product/lib64/vendor.display.color@1.1.so:$(TARGET_COPY_OUT_PRODUCT)/lib64/vendor.display.color@1.1.so \
+    vendor/oneplus/billie2/proprietary/product/lib64/vendor.display.color@1.2.so:$(TARGET_COPY_OUT_PRODUCT)/lib64/vendor.display.color@1.2.so \
+    vendor/oneplus/billie2/proprietary/product/lib64/vendor.display.color@1.3.so:$(TARGET_COPY_OUT_PRODUCT)/lib64/vendor.display.color@1.3.so \
+    vendor/oneplus/billie2/proprietary/product/lib64/vendor.display.config@1.0.so:$(TARGET_COPY_OUT_PRODUCT)/lib64/vendor.display.config@1.0.so \
+    vendor/oneplus/billie2/proprietary/product/lib64/vendor.display.config@1.1.so:$(TARGET_COPY_OUT_PRODUCT)/lib64/vendor.display.config@1.1.so \
+    vendor/oneplus/billie2/proprietary/product/lib64/vendor.display.config@1.10.so:$(TARGET_COPY_OUT_PRODUCT)/lib64/vendor.display.config@1.10.so \
+    vendor/oneplus/billie2/proprietary/product/lib64/vendor.display.config@1.11.so:$(TARGET_COPY_OUT_PRODUCT)/lib64/vendor.display.config@1.11.so \
+    vendor/oneplus/billie2/proprietary/product/lib64/vendor.display.config@1.12.so:$(TARGET_COPY_OUT_PRODUCT)/lib64/vendor.display.config@1.12.so \
+    vendor/oneplus/billie2/proprietary/product/lib64/vendor.display.config@1.13.so:$(TARGET_COPY_OUT_PRODUCT)/lib64/vendor.display.config@1.13.so \
+    vendor/oneplus/billie2/proprietary/product/lib64/vendor.display.config@1.14.so:$(TARGET_COPY_OUT_PRODUCT)/lib64/vendor.display.config@1.14.so \
+    vendor/oneplus/billie2/proprietary/product/lib64/vendor.display.config@1.15.so:$(TARGET_COPY_OUT_PRODUCT)/lib64/vendor.display.config@1.15.so \
+    vendor/oneplus/billie2/proprietary/product/lib64/vendor.display.config@1.16.so:$(TARGET_COPY_OUT_PRODUCT)/lib64/vendor.display.config@1.16.so \
+    vendor/oneplus/billie2/proprietary/product/lib64/vendor.display.config@1.2.so:$(TARGET_COPY_OUT_PRODUCT)/lib64/vendor.display.config@1.2.so \
+    vendor/oneplus/billie2/proprietary/product/lib64/vendor.display.config@1.3.so:$(TARGET_COPY_OUT_PRODUCT)/lib64/vendor.display.config@1.3.so \
+    vendor/oneplus/billie2/proprietary/product/lib64/vendor.display.config@1.4.so:$(TARGET_COPY_OUT_PRODUCT)/lib64/vendor.display.config@1.4.so \
+    vendor/oneplus/billie2/proprietary/product/lib64/vendor.display.config@1.5.so:$(TARGET_COPY_OUT_PRODUCT)/lib64/vendor.display.config@1.5.so \
+    vendor/oneplus/billie2/proprietary/product/lib64/vendor.display.config@1.6.so:$(TARGET_COPY_OUT_PRODUCT)/lib64/vendor.display.config@1.6.so \
+    vendor/oneplus/billie2/proprietary/product/lib64/vendor.display.config@1.7.so:$(TARGET_COPY_OUT_PRODUCT)/lib64/vendor.display.config@1.7.so \
+    vendor/oneplus/billie2/proprietary/product/lib64/vendor.display.config@1.8.so:$(TARGET_COPY_OUT_PRODUCT)/lib64/vendor.display.config@1.8.so \
+    vendor/oneplus/billie2/proprietary/product/lib64/vendor.display.config@1.9.so:$(TARGET_COPY_OUT_PRODUCT)/lib64/vendor.display.config@1.9.so \
+    vendor/oneplus/billie2/proprietary/product/lib64/vendor.display.postproc@1.0.so:$(TARGET_COPY_OUT_PRODUCT)/lib64/vendor.display.postproc@1.0.so \
+    vendor/oneplus/billie2/proprietary/product/lib64/vendor.qti.hardware.display.composer@2.0.so:$(TARGET_COPY_OUT_PRODUCT)/lib64/vendor.qti.hardware.display.composer@2.0.so \
+    vendor/oneplus/billie2/proprietary/product/lib64/vendor.qti.hardware.display.composer@2.1.so:$(TARGET_COPY_OUT_PRODUCT)/lib64/vendor.qti.hardware.display.composer@2.1.so \
     vendor/oneplus/billie2/proprietary/product/lib64/vendor.qti.hardware.perf@2.0.so:$(TARGET_COPY_OUT_PRODUCT)/lib64/vendor.qti.hardware.perf@2.0.so \
     vendor/oneplus/billie2/proprietary/product/lib64/vendor.qti.imsrtpservice@2.0.so:$(TARGET_COPY_OUT_PRODUCT)/lib64/vendor.qti.imsrtpservice@2.0.so
 
